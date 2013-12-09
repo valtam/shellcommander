@@ -7,7 +7,7 @@ import org.kondrak.shell.commander.model.directory.RootDirectory;
  * This class contains the necessary objectives to describe a unix-like file
  * system.
  * 
- * @author kondrak
+ * @author kondrak.
  *
  */
 public final class FileSystem {
